@@ -34,6 +34,9 @@ The Sling Model is used in a simple HTL component that outputs the value of `pos
 </sly>
 ```
 
+The component can be drag'n'dropped anywhere (i.e. Geometrixx Outdoors)
+![component-result](screenshot.png)
+
 ## Building
 
 This project uses Maven for building. Common commands:
